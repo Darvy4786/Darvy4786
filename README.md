@@ -2,7 +2,6 @@
 # Hey there~🤚
 I'm a fullstack web developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darvy&theme=white&dark=true)
 
 <p align="center">
      Teck Stack📙
